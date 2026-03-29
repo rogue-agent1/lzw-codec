@@ -1,11 +1,11 @@
 # lzw_codec
 
-lzw_codec - LZW compression and decompression.
+lzw_codec: LZW compression/decompression.
+
+Single-file, zero-dependency Python CLI.
 
 ## Usage
 
 ```bash
-python3 lzw_codec.py --test
+python3 lzw_codec.py test
 ```
-
-Zero dependencies. Python 3.8+.
